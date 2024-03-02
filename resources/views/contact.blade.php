@@ -1,0 +1,1 @@
+<h2>Calling blade view page</h2>
